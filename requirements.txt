@@ -5,6 +5,7 @@ sklearn
 pandas
 pytest
 tox
+flake8
 
 # local package install
 -e .
